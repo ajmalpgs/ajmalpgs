@@ -59,26 +59,6 @@ Key capabilities:
 
 ---
 
-## 🚀 Featured projects
-(Pin 3–6 repositories to your profile and replace these placeholders with exact links, screenshots, and short demo GIFs.)
-
-### [project-one](https://github.com/ajmalpgs/project-one)
-- Tech: Laravel · MySQL · Docker
-- What: Secure subscription & payments platform with webhook handling and retry logic.
-- Tip: Add a short demo GIF and setup steps in the repo README.
-
-### [project-two](https://github.com/ajmalpgs/project-two)
-- Tech: Python · OpenAI · Serverless
-- What: Agentic AI workflows that orchestrate app data and background tasks.
-- Tip: Include architecture diagram and example prompts.
-
-### [project-three](https://github.com/ajmalpgs/project-three)
-- Tech: React · Node · API
-- What: Admin dashboard featuring role-based access and observability hooks.
-- Tip: Add CI badges and a contributor guide.
-
----
-
 ## ✅ Quality signals I deliver
 - Business-driven APIs and clear data models
 - Automated tests and reproducible deployments
@@ -87,14 +67,6 @@ Key capabilities:
 
 ---
 
-## 📫 Contact & availability
-- Email: your-email@example.com
-- LinkedIn: https://www.linkedin.com/in/ajmalpgs
-- Portfolio: https://your-site.example.com
 
-If you'd like, I can:
-- Add screenshots / GIFs for three repositories
-- Generate topic badges and CI badges for your top projects
-- Commit further polish (styles, small SVGs) on request
 
 Thanks for visiting — feel free to say hi 👋
