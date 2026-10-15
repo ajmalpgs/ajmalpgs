@@ -78,13 +78,5 @@ AI & automation: OpenAI · Agentic workflows · Python scripting
 - Secure defaults (2FA, rate limiting, secrets management)
 - Observability (logs, metrics, alerts) for production confidence
 
----
-
-## Availability & contact
-Open to backend/architecture work, integrations, and AI-assisted automation projects.  
 
 
-If you'd like, I can:
-- Add screenshots/GIFs for each featured project
-- Generate badges (build, license, coverage) and repo topics
-- Commit this README to the ajmalpgs/ajmalpgs repo for you
