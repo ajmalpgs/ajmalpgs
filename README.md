@@ -2,7 +2,7 @@
 
 # Ajmal — BACKEND DEVELOPER · SYSTEMS THINKER 👋
 
-[![GitHub followers](https://img.shields.io/github/followers/ajmalpgs?label=Follow&style=social)](https://github.com/ajmalpgs) [![Website](https://img.shields.io/badge/Website-Portfolio-1abc9c?logo=world)](https://your-site.example.com) [![Email](https://img.shields.io/badge/Email-your--email%40example.com-orange?logo=gmail)](mailto:your-email@example.com)
+[![GitHub followers](https://img.shields.io/github/followers/ajmalpgs?label=Follow&style=social)](https://github.com/ajmalpgs) 
 
 ---
 
